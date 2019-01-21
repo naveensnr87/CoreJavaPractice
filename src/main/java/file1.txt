@@ -1,0 +1,2 @@
+Hey I am the file wrote read for Exception Example
+Please read me and don't forget to close at the end
